@@ -1,14 +1,10 @@
 # Hi there 👋, I'm Clarence Aquino
 
-🎓 Computer Engineering Student
-
-💻 Aspiring Software Engineer
-
-🚀 Passionate about Software Development, IoT, and Backend Systems
+I am a Computer Engineering student aspiring to become a Software Engineer. I am passionate about software development, IoT, and backend systems, with a focus on backend development, SQL databases, and building efficient, scalable systems. I enjoy working on technical projects that involve system design, data management, and real-world problem solving.
 
 ## 🚀 About Me
 
-* 🌱 Currently learning Django, Python, Javascript
+* 🌱 Currently learning Python, Javascript
 * 🔭 Building software and hardware projects
 * 🎯 Goal: Become a Software Engineer
 * ⚡ Fun fact: I enjoy building systems that combine software and hardware
