@@ -61,12 +61,19 @@ An interactive web application that visualizes Operating System concepts and alg
 </table>
 
 </p>
-## 🎯 Current Goals
+## 📫 Connect With Me
 
-* Learn Advanced Django Development
-* Improve Cybersecurity Skills
-* Build Full-Stack Applications
-* Contribute to Open Source Projects
+<p align="left">
+  <a href="mailto:aquinoclarence89@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/clarence-aquino-3b7141417/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/clarencze">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
