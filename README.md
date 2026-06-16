@@ -50,11 +50,7 @@ An interactive web-based application that visualizes Operating System concepts t
 - Real-time algorithm behavior visualization
 
 ---
-<p align="center">
-  <a href="https://github.com/Jviscoding/Numerical-Method">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jviscoding&repo=Numerical-Method&theme=tokyonight" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jviscoding&repo=Numerical-Method&theme=tokyonight" />
 
 ### ➗ Numerical Methods Matrix Calculator
 
