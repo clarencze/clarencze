@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Clarence
 
 🎓 Computer Engineering Student
-💻 Aspiring Cybersecurity Professional
+💻 Aspiring Software Engineer
 🚀 Passionate about Software Development, IoT, and Backend Systems
 
 ## 🚀 About Me
 
-* 🌱 Currently learning Django, Cybersecurity, and Backend Development
+* 🌱 Currently learning Django, Python, Javascript
 * 🔭 Building software and hardware projects
-* 🎯 Goal: Become a Cybersecurity Professional
+* 🎯 Goal: Become a Software Engineer
 * ⚡ Fun fact: I enjoy building systems that combine software and hardware
 
 ## 💻 Tech Stack
