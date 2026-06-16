@@ -63,17 +63,11 @@ An interactive web application that visualizes Operating System concepts and alg
 </p>
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:aquinoclarence89@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/clarence-aquino-3b7141417/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/clarencze">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+- 📧 Email: aquinoclarence89@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/clarence-aquino-3b7141417/  
+- 🌐 GitHub: https://github.com/clarencze  
+
+Feel free to reach out for collaborations, projects, or opportunities!
 
 ---
 
