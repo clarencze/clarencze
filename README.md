@@ -17,10 +17,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,git,github,vscode,arduino" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
 ## 📌 Featured Projects
 
 ### 🩺 Health Monitoring System
