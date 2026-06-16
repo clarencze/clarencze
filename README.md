@@ -47,7 +47,7 @@ An interactive web application that visualizes Operating System concepts and alg
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=8&hide=html,css&cache_seconds=1800)
 
 ## 🎯 Current Goals
 
