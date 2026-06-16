@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Clarence
 
 🎓 Computer Engineering Student
+
 💻 Aspiring Software Engineer
+
 🚀 Passionate about Software Development, IoT, and Backend Systems
 
 ## 🚀 About Me
