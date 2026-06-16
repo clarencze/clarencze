@@ -24,8 +24,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/clarencze/OS-VISUALIZER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarencze&repo=OS-VISUALIZER&theme=tokyonight" />
+  <a href="https://github.com/Jviscoding/Numerical-Method">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jviscoding&repo=Numerical-Method&theme=tokyonight" />
   </a>
 </p>
 
