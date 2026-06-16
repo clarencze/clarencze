@@ -21,14 +21,6 @@
 
 ## 📌 Featured Projects
 
----
-
-<p align="center">
-  <a href="https://github.com/clarencze/OS-VISUALIZER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarencze&repo=OS-VISUALIZER&theme=tokyonight" />
-  </a>
-</p>
-
 ### 🖥️ OS Visualizer
 
 🌐 Live Demo: https://osvisualizer.onrender.com/index.html  
@@ -51,26 +43,18 @@ An interactive web-based application that visualizes Operating System concepts t
 
 ---
 
-<p align="center">
-  <a href="https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphrancis&repo=DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron&theme=tokyonight" />
-  </a>
-</p>
-
 ### 🎧 DSP Simulator
-
-🔗 Repository: https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron  
 
 A Digital Signal Processing simulator focused on demonstrating signal behavior and processing concepts through computational models and simulations.
 
 **Tech Stack**
 - C / C++
-- Python (if applicable, update if needed)
+- Python (update if needed)
 
 **Features**
 - Signal processing simulations
 - Algorithm-based DSP computations
-- Educational demonstration of DSP concepts
+- Educational DSP concepts visualization
 
 ---
 
@@ -81,27 +65,21 @@ Built a portable health monitoring device using an ESP32-CAM, focusing on embedd
 **Tech Stack**
 - ESP32 / Arduino
 - Python
-- Sensors (health monitoring modules)
+- Sensors
 
 **Features**
-- Real-time health data monitoring
+- Real-time health monitoring
 - Embedded system integration
 - Portable hardware design
 - Camera-assisted sensing system
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Jviscoding/Numerical-Method">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jviscoding&repo=Numerical-Method&theme=tokyonight" />
-  </a>
-</p>
-
 ### ➗ Numerical Methods Matrix Calculator
 
-🔗 Repository: https://github.com/Jviscoding/Numerical-Method  
+🌐 Live Demo: https://numerical-method.pages.dev/  
 
-A web-based calculator for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
+A web-based tool for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
 
 **Tech Stack**
 - HTML
@@ -110,9 +88,8 @@ A web-based calculator for solving systems of linear equations using Cramer’s 
 
 **Features**
 - Multiple matrix-solving methods
-- Step-by-step solution visualization
-- Clean UI for mathematical computation
-- Educational tool for numerical methods
+- Step-by-step solutions
+- Educational UI for numerical methods
 
 ## 📊 GitHub Stats
 
