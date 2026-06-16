@@ -45,9 +45,20 @@ An interactive web application that visualizes Operating System concepts and alg
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800" />
+    </td>
+  </tr>
+</table>
+
+</p>
 ## 🎯 Current Goals
 
 * Learn Advanced Django Development
