@@ -50,8 +50,6 @@
 
 ## 📌 Featured Projects
 
----
-
 ### 🖥️ OS Visualizer
 
 🌐 Live Demo: https://osvisualizer.onrender.com 
