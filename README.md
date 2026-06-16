@@ -23,16 +23,10 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Jviscoding/Numerical-Method">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jviscoding&repo=Numerical-Method&theme=tokyonight" />
-  </a>
-</p>
-
 ### 🖥️ OS Visualizer
 
 🌐 Live Demo: https://osvisualizer.onrender.com 
-
+🔗 Repository: https://github.com/clarencze/OS-VISUALIZER
 
 An interactive web-based application that visualizes Operating System concepts through real-time simulation of core algorithms, helping students understand system-level processes.
 
@@ -55,6 +49,7 @@ An interactive web-based application that visualizes Operating System concepts t
 ### ➗ Numerical Methods Matrix Calculator
 
 🌐 Live Demo: https://numerical-method.pages.dev/  
+🔗 Repository: https://github.com/Jviscoding/Numerical-Method
 
 A web-based tool for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
 
