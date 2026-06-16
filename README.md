@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Clarence
+# Hi there 👋, I'm Clarence Aquino
 
 🎓 Computer Engineering Student
 
