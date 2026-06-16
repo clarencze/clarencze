@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋, I'm Clarence
 
-<!--
-**clarencze/clarencze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+💻 Aspiring Cybersecurity Professional
+🚀 Passionate about Software Development, IoT, and Backend Systems
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning Django, Cybersecurity, and Backend Development
+* 🔭 Building software and hardware projects
+* 🎯 Goal: Become a Cybersecurity Professional
+* ⚡ Fun fact: I enjoy building systems that combine software and hardware
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,django,mysql,sqlite,git,github,arduino" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+## 📌 Featured Projects
+
+### 🩺 Health Monitoring System
+
+Portable health monitoring device utilizing ESP32-CAM, ECG, heart rate, and temperature sensors integrated with Raspberry Pi.
+
+### 🛒 Clothing Store Management System
+
+Inventory and POS system with stock management, sales tracking, shopping cart, and MySQL database integration.
+
+### 🖼️ Image Processing Application
+
+Desktop application built with Python and PyQt6 for image enhancement and filtering.
+
+## 📊 GitHub Stats
+
+![Clarence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clarencze\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze\&layout=compact\&theme=tokyonight)
+
+## 🎯 Current Goals
+
+* Learn Advanced Django Development
+* Improve Cybersecurity Skills
+* Build Full-Stack Applications
+* Contribute to Open Source Projects
+
+---
+
+> "Code. Secure. Innovate."
