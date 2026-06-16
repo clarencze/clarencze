@@ -17,6 +17,14 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,firebase,git,github,vscode,arduino" />
 </p>
 
+## 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/clarencze/OS-VISUALIZER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarencze&repo=OS-VISUALIZER&theme=tokyonight" />
+  </a>
+</p>
+
 ### 🖥️ OS Visualizer
 
 🌐 Live Demo: https://osvisualizer.onrender.com/index.html  
