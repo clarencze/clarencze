@@ -19,7 +19,9 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,firebase,git,github,vscode,arduino" />
 </p>
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+---
 
 <p align="center">
   <a href="https://github.com/clarencze/OS-VISUALIZER">
@@ -29,9 +31,10 @@
 
 ### 🖥️ OS Visualizer
 
-🌐 Live: https://osvisualizer.onrender.com/index.html  
+🌐 Live Demo: https://osvisualizer.onrender.com/index.html  
+🔗 Repository: https://github.com/clarencze/OS-VISUALIZER  
 
-An interactive web application that visualizes Operating System concepts and algorithms through real-time simulation.
+An interactive web-based application that visualizes Operating System concepts through real-time simulation of core algorithms, helping students understand system-level processes.
 
 **Tech Stack**
 - HTML
@@ -39,11 +42,77 @@ An interactive web application that visualizes Operating System concepts and alg
 - JavaScript
 - Firebase
 
-**Features**
+**Core Features**
 - CPU Scheduling visualization
-- Memory management simulation
-- Step-by-step execution
-- Educational UI design
+- Page Replacement / memory management simulation
+- Step-by-step execution flow
+- Interactive educational UI
+- Real-time algorithm behavior visualization
+
+---
+
+<p align="center">
+  <a href="https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphrancis&repo=DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron&theme=tokyonight" />
+  </a>
+</p>
+
+### 🎧 DSP Simulator
+
+🔗 Repository: https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron  
+
+A Digital Signal Processing simulator focused on demonstrating signal behavior and processing concepts through computational models and simulations.
+
+**Tech Stack**
+- C / C++
+- Python (if applicable, update if needed)
+
+**Features**
+- Signal processing simulations
+- Algorithm-based DSP computations
+- Educational demonstration of DSP concepts
+
+---
+
+### 🩺 ESP32-CAM Health Monitor
+
+Built a portable health monitoring device using an ESP32-CAM, focusing on embedded systems development, sensor integration, and real-time data processing.
+
+**Tech Stack**
+- ESP32 / Arduino
+- Python
+- Sensors (health monitoring modules)
+
+**Features**
+- Real-time health data monitoring
+- Embedded system integration
+- Portable hardware design
+- Camera-assisted sensing system
+
+---
+
+<p align="center">
+  <a href="https://github.com/Jviscoding/Numerical-Method">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jviscoding&repo=Numerical-Method&theme=tokyonight" />
+  </a>
+</p>
+
+### ➗ Numerical Methods Matrix Calculator
+
+🔗 Repository: https://github.com/Jviscoding/Numerical-Method  
+
+A web-based calculator for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+**Features**
+- Multiple matrix-solving methods
+- Step-by-step solution visualization
+- Clean UI for mathematical computation
+- Educational tool for numerical methods
 
 ## 📊 GitHub Stats
 
