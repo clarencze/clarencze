@@ -27,8 +27,7 @@
 
 ### 🖥️ OS Visualizer
 
-🌐 Live Demo: https://osvisualizer.onrender.com/index.html  
-🔗 Repository: https://github.com/clarencze/OS-VISUALIZER
+🌐 Live: https://osvisualizer.onrender.com/index.html  
 
 An interactive web application that visualizes Operating System concepts and algorithms through real-time simulation.
 
