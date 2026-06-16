@@ -48,8 +48,7 @@ An interactive web-based application that visualizes Operating System concepts t
 A Digital Signal Processing simulator focused on demonstrating signal behavior and processing concepts through computational models and simulations.
 
 **Tech Stack**
-- C / C++
-- Python (update if needed)
+- Python 
 
 **Features**
 - Signal processing simulations
@@ -63,7 +62,7 @@ A Digital Signal Processing simulator focused on demonstrating signal behavior a
 Built a portable health monitoring device using an ESP32-CAM, focusing on embedded systems development, sensor integration, and real-time data processing.
 
 **Tech Stack**
-- ESP32 / Arduino
+- ESP32
 - Python
 - Sensors
 
