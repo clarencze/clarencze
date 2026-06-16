@@ -44,6 +44,24 @@ An interactive web-based application that visualizes Operating System concepts t
 
 ---
 
+### ➗ Numerical Methods Matrix Calculator
+
+🌐 Live Demo: https://numerical-method.pages.dev/  
+
+A web-based tool for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+**Features**
+- Multiple matrix-solving methods
+- Step-by-step solutions
+- Educational UI for numerical methods
+
+---
+
 ### 🎧 DSP Simulator
 
 A Digital Signal Processing simulator focused on demonstrating signal behavior and processing concepts through computational models and simulations.
@@ -74,22 +92,6 @@ Built a portable health monitoring device using an ESP32-CAM, focusing on embedd
 - Camera-assisted sensing system
 
 ---
-
-### ➗ Numerical Methods Matrix Calculator
-
-🌐 Live Demo: https://numerical-method.pages.dev/  
-
-A web-based tool for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-
-**Features**
-- Multiple matrix-solving methods
-- Step-by-step solutions
-- Educational UI for numerical methods
 
 ## 📊 GitHub Stats
 
