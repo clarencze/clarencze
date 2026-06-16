@@ -17,33 +17,24 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,firebase,git,github,vscode,arduino" />
 </p>
 
-## 📌 Featured Project
-
 ### 🖥️ OS Visualizer
 
-🌐 Live Demo: https://osvisualizer.onrender.com/index.html
-
+🌐 Live Demo: https://osvisualizer.onrender.com/index.html  
 🔗 Repository: https://github.com/clarencze/OS-VISUALIZER
 
-An interactive web application designed to help students understand Operating System concepts through visual simulations. The platform provides real-time algorithm visualization, making complex OS topics easier to learn and analyze.
+An interactive web application that visualizes Operating System concepts and algorithms through real-time simulation.
 
-**Technologies Used**
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- Firebase
 
-* HTML
-* CSS
-* JavaScript
-* Firebase
-
-**Key Features**
-
-* Interactive operating system algorithm simulations
-* Real-time visualization and execution
-* User-friendly web interface
-* Educational learning tool for students
-* Cloud integration with Firebase
-
-**Purpose**
-Developed to improve the understanding of Operating System concepts by transforming theoretical algorithms into visual and interactive experiences.
+**Features**
+- CPU Scheduling visualization
+- Memory management simulation
+- Step-by-step execution
+- Educational UI design
 
 ## 📊 GitHub Stats
 
