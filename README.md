@@ -14,22 +14,36 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,firebase,git,github,vscode,arduino" />
 </p>
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-### 🩺 Health Monitoring System
+### 🖥️ OS Visualizer
 
-Portable health monitoring device utilizing ESP32-CAM, ECG, heart rate, and temperature sensors integrated with Raspberry Pi.
+🌐 Live Demo: https://osvisualizer.onrender.com/index.html
 
-### 🛒 Clothing Store Management System
+🔗 Repository: https://github.com/clarencze/OS-VISUALIZER
 
-Inventory and POS system with stock management, sales tracking, shopping cart, and MySQL database integration.
+An interactive web application designed to help students understand Operating System concepts through visual simulations. The platform provides real-time algorithm visualization, making complex OS topics easier to learn and analyze.
 
-### 🖼️ Image Processing Application
+**Technologies Used**
 
-Desktop application built with Python and PyQt6 for image enhancement and filtering.
+* HTML
+* CSS
+* JavaScript
+* Firebase
+
+**Key Features**
+
+* Interactive operating system algorithm simulations
+* Real-time visualization and execution
+* User-friendly web interface
+* Educational learning tool for students
+* Cloud integration with Firebase
+
+**Purpose**
+Developed to improve the understanding of Operating System concepts by transforming theoretical algorithms into visual and interactive experiences.
 
 ## 📊 GitHub Stats
 
