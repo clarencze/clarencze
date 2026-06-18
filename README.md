@@ -100,7 +100,7 @@ Python-based Digital Signal Processing simulator that demonstrates signal behavi
 
 Portable embedded health monitoring device using ESP32-CAM — real-time sensor data, camera-assisted sensing, and compact hardware design.
 
-`ESP32` `Python` `Sensors`
+`ESP32` `Python` `YoloV8`
 
 </td>
 </tr>
@@ -116,20 +116,6 @@ Portable embedded health monitoring device using ESP32-CAM — real-time sensor 
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&border_radius=8" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=clarencze&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-clarencze.github.io%2Fcsa-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
-
-*Open to collaborations, internships, and software engineering opportunities!*
 
 </div>
 
