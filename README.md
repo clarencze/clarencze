@@ -1,135 +1,106 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:0a1628,100:020b18&height=200&section=header&text=CLARENCE%20AQUINO&fontSize=52&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20IoT%20BUILDER&descAlignY=58&descAlign=50&descColor=7c9ab8&descSize=13" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Clarence%20Aquino&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20IoT%20Builder&descAlignY=55&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=%3E+Initializing+agent+profile...+%5B+OK+%5D;%3E+Focus%3A+Backend+%7C+SQL+%7C+Embedded+IoT+%5B+RUN+%5D;%3E+Status%3A+Open+to+opportunities+%5B+ACTIVE+%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;Backend+%7C+SQL+%7C+Embedded+IoT;Building+systems+that+just+work." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-aquinoclarence89%40gmail.com-020b18?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a1628)](mailto:aquinoclarence89@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Clarence_Aquino-020b18?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a1628)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![GitHub](https://img.shields.io/badge/GITHUB-clarencze-020b18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a1628)](https://github.com/clarencze)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clarencze.github.io%2Fcsa-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
 
 </div>
 
 ---
 
-## ◈ AGENT PROFILE
+## 👋 About Me
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  DESIGNATION  :  Clarence Aquino                            │
-│  ROLE         :  CompE Student → Software Engineer          │
-│  FOCUS        :  Backend Systems · SQL Databases · IoT      │
-│  DIRECTIVE    :  Build scalable, efficient, secure systems  │
-│  STATUS       :  ● ONLINE — Open to opportunities           │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm a Computer Engineering student passionate about building efficient, scalable systems — from backend APIs and SQL databases to embedded IoT hardware. I enjoy bridging software and hardware to solve real-world problems.
+
+- 🌱 Currently deepening my skills in **Python** and **JavaScript**
+- 🔭 Building projects that combine software logic with hardware integration
+- 🎯 Goal: Land a role as a Software Engineer
+- ⚡ Fun fact: I enjoy building systems that talk to the physical world
 
 ---
 
-## ◈ SYSTEM CAPABILITIES
+## 🛠️ Tech Stack
 
-| MODULE | PROFICIENCY | STATUS |
-|---|---|---|
-| `backend_systems` | ████████████░░░ 82% | 🟦 ACTIVE |
-| `sql_databases` | ███████████░░░░ 78% | 🟦 ACTIVE |
-| `embedded_iot` | ██████████░░░░░ 72% | 🟩 ACTIVE |
-| `system_design` | █████████░░░░░░ 65% | 🟩 GROWING |
-| `python` | ████████░░░░░░░ 60% | 🟣 LEARNING |
-| `javascript` | ████████░░░░░░░ 58% | 🟣 LEARNING |
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ◈ TECH STACK / MODULES LOADED
+### 🗄️ Databases & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img src="https://img.shields.io/badge/--LANGUAGES-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 
-![Python](https://img.shields.io/badge/PYTHON-020b18?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=0a1628)
-![Java](https://img.shields.io/badge/JAVA-020b18?style=for-the-badge&logo=openjdk&logoColor=00d4ff&labelColor=0a1628)
-![C++](https://img.shields.io/badge/C%2B%2B-020b18?style=for-the-badge&logo=cplusplus&logoColor=00d4ff&labelColor=0a1628)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-020b18?style=for-the-badge&logo=javascript&logoColor=00d4ff&labelColor=0a1628)
-![PHP](https://img.shields.io/badge/PHP-020b18?style=for-the-badge&logo=php&logoColor=00d4ff&labelColor=0a1628)
-
-<img src="https://img.shields.io/badge/--DATABASES_%26_BACKEND-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
-
-![MySQL](https://img.shields.io/badge/MYSQL-020b18?style=for-the-badge&logo=mysql&logoColor=a78bfa&labelColor=0a1628)
-![SQLite](https://img.shields.io/badge/SQLITE-020b18?style=for-the-badge&logo=sqlite&logoColor=a78bfa&labelColor=0a1628)
-![Firebase](https://img.shields.io/badge/FIREBASE-020b18?style=for-the-badge&logo=firebase&logoColor=a78bfa&labelColor=0a1628)
-
-<img src="https://img.shields.io/badge/--WEB-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
-
-![HTML5](https://img.shields.io/badge/HTML5-020b18?style=for-the-badge&logo=html5&logoColor=00d4ff&labelColor=0a1628)
-![CSS3](https://img.shields.io/badge/CSS3-020b18?style=for-the-badge&logo=css3&logoColor=00d4ff&labelColor=0a1628)
-
-<img src="https://img.shields.io/badge/--TOOLS-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
-
-![Git](https://img.shields.io/badge/GIT-020b18?style=for-the-badge&logo=git&logoColor=00ffaa&labelColor=0a1628)
-![GitHub](https://img.shields.io/badge/GITHUB-020b18?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0a1628)
-![VS Code](https://img.shields.io/badge/VS_CODE-020b18?style=for-the-badge&logo=visualstudiocode&logoColor=00ffaa&labelColor=0a1628)
-![XAMPP](https://img.shields.io/badge/XAMPP-020b18?style=for-the-badge&logo=apache&logoColor=00ffaa&labelColor=0a1628)
-
-<img src="https://img.shields.io/badge/--EMBEDDED_%26_HARDWARE-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
-
-![Arduino](https://img.shields.io/badge/ARDUINO-020b18?style=for-the-badge&logo=arduino&logoColor=00d4ff&labelColor=0a1628)
-![ESP32](https://img.shields.io/badge/ESP32-020b18?style=for-the-badge&logo=espressif&logoColor=00d4ff&labelColor=0a1628)
+### 🔌 Embedded & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
-## ◈ ACTIVE MISSIONS / FEATURED PROJECTS
+## 📌 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 OS VISUALIZER
+### 🖥️ OS Visualizer
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://osvisualizer.onrender.com)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/clarencze/OS-VISUALIZER)
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-020b18?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0a1628)](https://osvisualizer.onrender.com)
-[![Repository](https://img.shields.io/badge/REPOSITORY-020b18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a1628)](https://github.com/clarencze/OS-VISUALIZER)
+Interactive web app that simulates core OS algorithms in real time — CPU scheduling, page replacement, and memory management with step-by-step visualization.
 
-> Real-time simulation of core OS algorithms. CPU scheduling, page replacement, and memory management visualized step by step.
-
-![HTML](https://img.shields.io/badge/HTML-020b18?style=flat-square&logo=html5&logoColor=00d4ff&labelColor=0a1628)
-![CSS](https://img.shields.io/badge/CSS-020b18?style=flat-square&logo=css3&logoColor=00d4ff&labelColor=0a1628)
-![JavaScript](https://img.shields.io/badge/JS-020b18?style=flat-square&logo=javascript&logoColor=00d4ff&labelColor=0a1628)
-![Firebase](https://img.shields.io/badge/Firebase-020b18?style=flat-square&logo=firebase&logoColor=00d4ff&labelColor=0a1628)
+`HTML` `CSS` `JavaScript` `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-### 🟣 NUMERICAL METHODS CALC
+### ➗ Numerical Methods Calculator
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://numerical-method.pages.dev/)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jviscoding/Numerical-Method)
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-020b18?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0a1628)](https://numerical-method.pages.dev/)
-[![Repository](https://img.shields.io/badge/REPOSITORY-020b18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a1628)](https://github.com/Jviscoding/Numerical-Method)
+Solves linear equation systems using Cramer's Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition — with full step-by-step breakdowns.
 
-> Solves linear systems via Cramer's Rule, Gaussian Elimination, Gauss-Jordan & LU Decomposition with step-by-step breakdowns.
-
-![HTML](https://img.shields.io/badge/HTML-020b18?style=flat-square&logo=html5&logoColor=a78bfa&labelColor=0a1628)
-![CSS](https://img.shields.io/badge/CSS-020b18?style=flat-square&logo=css3&logoColor=a78bfa&labelColor=0a1628)
-![JavaScript](https://img.shields.io/badge/JS-020b18?style=flat-square&logo=javascript&logoColor=a78bfa&labelColor=0a1628)
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟩 DSP SIMULATOR
+### 🎧 DSP Simulator
 
-> Digital Signal Processing simulator demonstrating signal behavior and DSP concepts through algorithm-based computational models.
+Python-based Digital Signal Processing simulator that demonstrates signal behavior through computational models and algorithm visualization.
 
-![Python](https://img.shields.io/badge/Python-020b18?style=flat-square&logo=python&logoColor=00ffaa&labelColor=0a1628)
+`Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 🟧 ESP32-CAM HEALTH MONITOR
+### 🩺 ESP32-CAM Health Monitor
 
-> Portable health monitoring hardware using ESP32-CAM — sensor fusion, real-time processing, and camera-assisted data capture.
+Portable embedded health monitoring device using ESP32-CAM — real-time sensor data, camera-assisted sensing, and compact hardware design.
 
-![ESP32](https://img.shields.io/badge/ESP32-020b18?style=flat-square&logo=espressif&logoColor=f59e0b&labelColor=0a1628)
-![Python](https://img.shields.io/badge/Python-020b18?style=flat-square&logo=python&logoColor=f59e0b&labelColor=0a1628)
+`ESP32` `Python` `Sensors`
 
 </td>
 </tr>
@@ -137,30 +108,28 @@
 
 ---
 
-## ◈ TELEMETRY / GITHUB STATS
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&title_color=00d4ff&icon_color=7c3aed&text_color=7c9ab8&bg_color=020b18&border_color=00d4ff44&include_all_commits=true&count_private=true&cache_seconds=1800&border_radius=4" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=8&title_color=00d4ff&text_color=7c9ab8&bg_color=020b18&border_color=00d4ff44&cache_seconds=1800&border_radius=4" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&border_radius=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&border_radius=8" />
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=clarencze&theme=dark&background=020b18&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&border=00d4ff44&border_radius=4" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=clarencze&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## ◈ ESTABLISH CONNECTION
+## 📫 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-aquinoclarence89%40gmail.com-020b18?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a1628)](mailto:aquinoclarence89@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clarencze.github.io%2Fcsa-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-clarence--aquino--3b7141417-020b18?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0a1628)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-clarencze-020b18?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0a1628)](https://github.com/clarencze)
-
-*Open to collaborations · internships · software engineering opportunities*
+*Open to collaborations, internships, and software engineering opportunities!*
 
 </div>
 
@@ -168,14 +137,8 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║              >  CODE  ·  SECURE  ·  INNOVATE  <                  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+> *"Code. Secure. Innovate."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:0a1628,100:020b18&height=100&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 </div>
