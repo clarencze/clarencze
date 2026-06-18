@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/EMAIL-aquinoclarence89%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=020b18&color=020b18)](mailto:aquinoclarence89@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Clarence_Aquino-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=020b18&color=020b18)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![GitHub](https://img.shields.io/badge/GITHUB-clarencze-7c3aed?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=020b18&color=020b18)](https://github.com/clarencze)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Site-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=a78bfa&labelColor=020b18&color=020b18)](https://clarencze.github.io/csa/)
 
 </div>
 
