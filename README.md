@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-aquinoclarence89%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=020b18&color=020b18)](mailto:aquinoclarence89@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Clarence_Aquino-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=020b18&color=020b18)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Site-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=a78bfa&labelColor=020b18&color=020b18)](https://clarencze.github.io/csa/)
+[![Email](https://img.shields.io/badge/EMAIL-aquinoclarence89%40gmail.com-020b18?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a1628)](mailto:aquinoclarence89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Clarence_Aquino-020b18?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a1628)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+[![GitHub](https://img.shields.io/badge/GITHUB-clarencze-020b18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a1628)](https://github.com/clarencze)
 
 </div>
 
@@ -45,36 +45,36 @@
 
 ## ◈ TECH STACK / MODULES LOADED
 
-**LANGUAGES**
+<img src="https://img.shields.io/badge/--LANGUAGES-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
 
-![Python](https://img.shields.io/badge/PYTHON-020b18?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=020b18)
-![Java](https://img.shields.io/badge/JAVA-020b18?style=for-the-badge&logo=openjdk&logoColor=00d4ff&labelColor=020b18)
-![C++](https://img.shields.io/badge/C++-020b18?style=for-the-badge&logo=cplusplus&logoColor=00d4ff&labelColor=020b18)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-020b18?style=for-the-badge&logo=javascript&logoColor=00d4ff&labelColor=020b18)
-![PHP](https://img.shields.io/badge/PHP-020b18?style=for-the-badge&logo=php&logoColor=00d4ff&labelColor=020b18)
+![Python](https://img.shields.io/badge/PYTHON-020b18?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=0a1628)
+![Java](https://img.shields.io/badge/JAVA-020b18?style=for-the-badge&logo=openjdk&logoColor=00d4ff&labelColor=0a1628)
+![C++](https://img.shields.io/badge/C%2B%2B-020b18?style=for-the-badge&logo=cplusplus&logoColor=00d4ff&labelColor=0a1628)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-020b18?style=for-the-badge&logo=javascript&logoColor=00d4ff&labelColor=0a1628)
+![PHP](https://img.shields.io/badge/PHP-020b18?style=for-the-badge&logo=php&logoColor=00d4ff&labelColor=0a1628)
 
-**DATABASES & BACKEND**
+<img src="https://img.shields.io/badge/--DATABASES_%26_BACKEND-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
 
-![MySQL](https://img.shields.io/badge/MYSQL-020b18?style=for-the-badge&logo=mysql&logoColor=7c3aed&labelColor=020b18)
-![SQLite](https://img.shields.io/badge/SQLITE-020b18?style=for-the-badge&logo=sqlite&logoColor=7c3aed&labelColor=020b18)
-![Firebase](https://img.shields.io/badge/FIREBASE-020b18?style=for-the-badge&logo=firebase&logoColor=7c3aed&labelColor=020b18)
+![MySQL](https://img.shields.io/badge/MYSQL-020b18?style=for-the-badge&logo=mysql&logoColor=a78bfa&labelColor=0a1628)
+![SQLite](https://img.shields.io/badge/SQLITE-020b18?style=for-the-badge&logo=sqlite&logoColor=a78bfa&labelColor=0a1628)
+![Firebase](https://img.shields.io/badge/FIREBASE-020b18?style=for-the-badge&logo=firebase&logoColor=a78bfa&labelColor=0a1628)
 
-**WEB**
+<img src="https://img.shields.io/badge/--WEB-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
 
-![HTML5](https://img.shields.io/badge/HTML5-020b18?style=for-the-badge&logo=html5&logoColor=00d4ff&labelColor=020b18)
-![CSS3](https://img.shields.io/badge/CSS3-020b18?style=for-the-badge&logo=css3&logoColor=00d4ff&labelColor=020b18)
+![HTML5](https://img.shields.io/badge/HTML5-020b18?style=for-the-badge&logo=html5&logoColor=00d4ff&labelColor=0a1628)
+![CSS3](https://img.shields.io/badge/CSS3-020b18?style=for-the-badge&logo=css3&logoColor=00d4ff&labelColor=0a1628)
 
-**TOOLS**
+<img src="https://img.shields.io/badge/--TOOLS-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
 
-![Git](https://img.shields.io/badge/GIT-020b18?style=for-the-badge&logo=git&logoColor=00ffaa&labelColor=020b18)
-![GitHub](https://img.shields.io/badge/GITHUB-020b18?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=020b18)
-![VS Code](https://img.shields.io/badge/VS_CODE-020b18?style=for-the-badge&logo=visualstudiocode&logoColor=00ffaa&labelColor=020b18)
-![XAMPP](https://img.shields.io/badge/XAMPP-020b18?style=for-the-badge&logo=apache&logoColor=00ffaa&labelColor=020b18)
+![Git](https://img.shields.io/badge/GIT-020b18?style=for-the-badge&logo=git&logoColor=00ffaa&labelColor=0a1628)
+![GitHub](https://img.shields.io/badge/GITHUB-020b18?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0a1628)
+![VS Code](https://img.shields.io/badge/VS_CODE-020b18?style=for-the-badge&logo=visualstudiocode&logoColor=00ffaa&labelColor=0a1628)
+![XAMPP](https://img.shields.io/badge/XAMPP-020b18?style=for-the-badge&logo=apache&logoColor=00ffaa&labelColor=0a1628)
 
-**EMBEDDED / HARDWARE**
+<img src="https://img.shields.io/badge/--EMBEDDED_%26_HARDWARE-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628" />
 
-![Arduino](https://img.shields.io/badge/ARDUINO-020b18?style=for-the-badge&logo=arduino&logoColor=00d4ff&labelColor=020b18)
-![ESP32](https://img.shields.io/badge/ESP32-020b18?style=for-the-badge&logo=espressif&logoColor=00d4ff&labelColor=020b18)
+![Arduino](https://img.shields.io/badge/ARDUINO-020b18?style=for-the-badge&logo=arduino&logoColor=00d4ff&labelColor=0a1628)
+![ESP32](https://img.shields.io/badge/ESP32-020b18?style=for-the-badge&logo=espressif&logoColor=00d4ff&labelColor=0a1628)
 
 ---
 
@@ -85,23 +85,30 @@
 <td width="50%" valign="top">
 
 ### 🟦 OS VISUALIZER
-[![Live](https://img.shields.io/badge/▶_LIVE-00d4ff?style=flat-square&labelColor=020b18&color=020b18)](https://osvisualizer.onrender.com)
-[![Repo](https://img.shields.io/badge/⌥_REPO-7c3aed?style=flat-square&labelColor=020b18&color=020b18)](https://github.com/clarencze/OS-VISUALIZER)
 
-> Real-time simulation of core OS algorithms for educational use. CPU scheduling, page replacement, and memory management visualized step by step.
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-020b18?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0a1628)](https://osvisualizer.onrender.com)
+[![Repository](https://img.shields.io/badge/REPOSITORY-020b18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a1628)](https://github.com/clarencze/OS-VISUALIZER)
 
-`HTML` `CSS` `JS` `FIREBASE`
+> Real-time simulation of core OS algorithms. CPU scheduling, page replacement, and memory management visualized step by step.
+
+![HTML](https://img.shields.io/badge/HTML-020b18?style=flat-square&logo=html5&logoColor=00d4ff&labelColor=0a1628)
+![CSS](https://img.shields.io/badge/CSS-020b18?style=flat-square&logo=css3&logoColor=00d4ff&labelColor=0a1628)
+![JavaScript](https://img.shields.io/badge/JS-020b18?style=flat-square&logo=javascript&logoColor=00d4ff&labelColor=0a1628)
+![Firebase](https://img.shields.io/badge/Firebase-020b18?style=flat-square&logo=firebase&logoColor=00d4ff&labelColor=0a1628)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟣 NUMERICAL METHODS CALC
-[![Live](https://img.shields.io/badge/▶_LIVE-00d4ff?style=flat-square&labelColor=020b18&color=020b18)](https://numerical-method.pages.dev/)
-[![Repo](https://img.shields.io/badge/⌥_REPO-7c3aed?style=flat-square&labelColor=020b18&color=020b18)](https://github.com/Jviscoding/Numerical-Method)
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-020b18?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0a1628)](https://numerical-method.pages.dev/)
+[![Repository](https://img.shields.io/badge/REPOSITORY-020b18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a1628)](https://github.com/Jviscoding/Numerical-Method)
 
 > Solves linear systems via Cramer's Rule, Gaussian Elimination, Gauss-Jordan & LU Decomposition with step-by-step breakdowns.
 
-`HTML` `CSS` `JS`
+![HTML](https://img.shields.io/badge/HTML-020b18?style=flat-square&logo=html5&logoColor=a78bfa&labelColor=0a1628)
+![CSS](https://img.shields.io/badge/CSS-020b18?style=flat-square&logo=css3&logoColor=a78bfa&labelColor=0a1628)
+![JavaScript](https://img.shields.io/badge/JS-020b18?style=flat-square&logo=javascript&logoColor=a78bfa&labelColor=0a1628)
 
 </td>
 </tr>
@@ -110,18 +117,19 @@
 
 ### 🟩 DSP SIMULATOR
 
-> Digital Signal Processing simulator that demonstrates signal behavior and DSP concepts through algorithm-based computational models.
+> Digital Signal Processing simulator demonstrating signal behavior and DSP concepts through algorithm-based computational models.
 
-`PYTHON`
+![Python](https://img.shields.io/badge/Python-020b18?style=flat-square&logo=python&logoColor=00ffaa&labelColor=0a1628)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟧 ESP32-CAM HEALTH MONITOR
 
-> Portable health monitoring hardware using ESP32-CAM. Fuses embedded sensors with real-time processing and camera-assisted data capture.
+> Portable health monitoring hardware using ESP32-CAM — sensor fusion, real-time processing, and camera-assisted data capture.
 
-`ESP32` `PYTHON` `SENSORS`
+![ESP32](https://img.shields.io/badge/ESP32-020b18?style=flat-square&logo=espressif&logoColor=f59e0b&labelColor=0a1628)
+![Python](https://img.shields.io/badge/Python-020b18?style=flat-square&logo=python&logoColor=f59e0b&labelColor=0a1628)
 
 </td>
 </tr>
@@ -144,13 +152,17 @@
 
 ## ◈ ESTABLISH CONNECTION
 
-| CHANNEL | LINK |
-|---|---|
-| ✉ EMAIL | [aquinoclarence89@gmail.com](mailto:aquinoclarence89@gmail.com) |
-| ◈ LINKEDIN | [clarence-aquino-3b7141417](https://www.linkedin.com/in/clarence-aquino-3b7141417/) |
-| ⌥ GITHUB | [clarencze](https://github.com/clarencze) |
+<div align="center">
 
-*Seeking: collaborations · internships · software engineering opportunities*
+[![Email](https://img.shields.io/badge/EMAIL-aquinoclarence89%40gmail.com-020b18?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a1628)](mailto:aquinoclarence89@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-clarence--aquino--3b7141417-020b18?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0a1628)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-clarencze-020b18?style=for-the-badge&logo=github&logoColor=00ffaa&labelColor=0a1628)](https://github.com/clarencze)
+
+*Open to collaborations · internships · software engineering opportunities*
+
+</div>
 
 ---
 
