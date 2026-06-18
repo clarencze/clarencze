@@ -126,7 +126,7 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 <div align="center">
 
-<img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight" alt="Random Quote" />
+<img src="https://github-readme-quotes-returns.vercel.app/api?theme=tokyonight" alt="Random Quote" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a6fff,50:0d1f6e,100:0a0a0a&height=150&section=footer&reversal=true" />
 
