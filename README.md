@@ -1,153 +1,216 @@
-# Hi there 👋, I'm Clarence Aquino
+<div align="center">
 
-I am a Computer Engineering student aspiring to become a Software Engineer. I am passionate about software development, IoT, and backend systems, with a focus on backend development, SQL databases, and building efficient, scalable systems. I enjoy working on technical projects that involve system design, data management, and real-world problem solving.
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Clarence%20Aquino&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Software%20Developer%20%7C%20IoT%20Builder&descAlignY=55&descAlign=50" />
 
-## 🚀 About Me
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Code.+Secure.+Innovate.;Backend+%7C+IoT+%7C+System+Design;Building+systems+that+bridge+software+%26+hardware" alt="Typing SVG" />
+</a>
 
-* 🌱 Currently learning Python, Javascript
-* 🔭 Building software and hardware projects
-* 🎯 Goal: Become a Software Engineer
-* ⚡ Fun fact: I enjoy building systems that combine software and hardware
+<br/>
 
-## 💻 Tech Stack
+<!-- SOCIAL BADGES -->
+[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+[![GitHub](https://img.shields.io/badge/GitHub-clarencze-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clarencze)
+[![Portfolio](https://img.shields.io/badge/OS_Visualizer-Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://osvisualizer.onrender.com)
 
----
-
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
----
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+</div>
 
 ---
 
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+## `$ whoami`
 
+```terminal
+> Initializing profile...
 
----
+  Name     : Clarence Aquino
+  Role     : Computer Engineering Student → Software Engineer
+  Focus    : Backend Systems · SQL Databases · Embedded IoT
+  Status   : 🟢 Open to opportunities & collaborations
+  
+  Currently : Learning Python & JavaScript in depth
+  Building  : Software + Hardware systems that solve real problems
+  Mission   : Scalable, efficient, and secure systems
 
-### ⚙️ Tools & Development Environment
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=apache&logoColor=white)
-
----
-
-### 🔌 Embedded & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-
-## 📌 Featured Projects
-
-### 🖥️ OS Visualizer
-
-🌐 Live Demo: https://osvisualizer.onrender.com 
-
-🔗 Repository: https://github.com/clarencze/OS-VISUALIZER
-
-An interactive web-based application that visualizes Operating System concepts through real-time simulation of core algorithms, helping students understand system-level processes.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-- Firebase
-
-**Core Features**
-- CPU Scheduling visualization
-- Page Replacement / memory management simulation
-- Step-by-step execution flow
-- Interactive educational UI
-- Real-time algorithm behavior visualization
+> Profile loaded successfully ✓
+```
 
 ---
 
-### ➗ Numerical Methods Matrix Calculator
+## `$ ls ./tech-stack`
 
-🌐 Live Demo: https://numerical-method.pages.dev/  
-🔗 Repository: https://github.com/Jviscoding/Numerical-Method
+### 🧠 Languages
 
-A web-based tool for solving systems of linear equations using Cramer’s Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-
-**Features**
-- Multiple matrix-solving methods
-- Step-by-step solutions
-- Educational UI for numerical methods
-
----
-
-### 🎧 DSP Simulator
-
-A Digital Signal Processing simulator focused on demonstrating signal behavior and processing concepts through computational models and simulations.
-
-**Tech Stack**
-- Python 
-
-**Features**
-- Signal processing simulations
-- Algorithm-based DSP computations
-- Educational DSP concepts visualization
-
----
-
-### 🩺 ESP32-CAM Health Monitor
-
-Built a portable health monitoring device using an ESP32-CAM, focusing on embedded systems development, sensor integration, and real-time data processing.
-
-**Tech Stack**
-- ESP32
-- Python
-- Sensors
-
-**Features**
-- Real-time health monitoring
-- Embedded system integration
-- Portable hardware design
-- Camera-assisted sensing system
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800" />
-    </td>
-  </tr>
-</table>
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-## 📫 Connect With Me
+### 🌐 Web & Frontend
 
-- 📧 Email: aquinoclarence89@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/clarence-aquino-3b7141417/  
-- 🌐 GitHub: https://github.com/clarencze  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-Feel free to reach out for collaborations, projects, or opportunities!
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### ⚙️ Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+### 🔌 Embedded & Hardware
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
 
 ---
 
-> "Code. Secure. Innovate."
- 
+## `$ cat ./system-status.log`
+
+> **Skill proficiency at a glance**
+
+| Module | Status | Signal |
+|---|---|---|
+| `backend_systems` | ████████████░░░ 80% | 🟢 Active |
+| `sql_databases` | ███████████░░░░ 75% | 🟢 Active |
+| `python` | ████████░░░░░░░ 55% | 🟡 Learning |
+| `javascript` | ████████░░░░░░░ 55% | 🟡 Learning |
+| `embedded_iot` | ███████████░░░░ 70% | 🟢 Active |
+| `system_design` | █████████░░░░░░ 60% | 🟡 Growing |
+
+---
+
+## `$ ls ./projects --featured`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ OS Visualizer
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/clarencze/OS-VISUALIZER)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://osvisualizer.onrender.com)
+
+> An interactive web app that brings OS concepts to life through real-time algorithm simulation.
+
+**Highlights:**
+- ⚡ CPU Scheduling Visualizer
+- 🧠 Page Replacement Simulation
+- 🎓 Step-by-step execution flow
+
+`HTML` `CSS` `JavaScript` `Firebase`
+
+</td>
+<td width="50%">
+
+### ➗ Numerical Methods Calculator
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Jviscoding/Numerical-Method)
+[![Live](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white)](https://numerical-method.pages.dev/)
+
+> Web tool for solving systems of equations using Cramer's Rule, Gaussian Elimination, Gauss-Jordan & LU Decomposition.
+
+**Highlights:**
+- 📐 Multiple solving methods
+- 🔍 Step-by-step solutions
+- 🎓 Educational matrix UI
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎧 DSP Simulator
+> A Digital Signal Processing simulator demonstrating signal behavior through computational models.
+
+**Highlights:**
+- 📡 Signal processing simulations
+- 🧮 Algorithm-based DSP computation
+- 🎓 Educational concept visualizer
+
+`Python`
+
+</td>
+<td width="50%">
+
+### 🩺 ESP32-CAM Health Monitor
+> Portable health monitoring device using ESP32-CAM — embedded systems + sensor fusion + real-time data.
+
+**Highlights:**
+- 💓 Real-time health sensing
+- 📷 Camera-assisted system
+- 🔌 Embedded hardware design
+
+`ESP32` `Python` `Sensors`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=clarencze&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `$ ping clarencze --connect`
+
+<div align="center">
+
+| Channel | Link |
+|---|---|
+| 📧 Email | [aquinoclarence89@gmail.com](mailto:aquinoclarence89@gmail.com) |
+| 💼 LinkedIn | [clarence-aquino-3b7141417](https://www.linkedin.com/in/clarence-aquino-3b7141417/) |
+| 🐙 GitHub | [clarencze](https://github.com/clarencze) |
+
+*Open to collaborations, internships, and software engineering opportunities!*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║           > Code.  Secure.  Innovate.  <                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+</div>
