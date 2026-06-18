@@ -49,22 +49,51 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-| 🖥️ OS Visualizer | ➗ Numerical Methods Calculator |
-|---|---|
-| [![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://osvisualizer.onrender.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clarencze/OS-VISUALIZER) | [![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://numerical-method.pages.dev/) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jviscoding/Numerical-Method) |
-| Interactive web app simulating core OS algorithms in real time — CPU scheduling, page replacement, and memory management with step-by-step visualization. | Solves linear equation systems using Cramer's Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition with full step-by-step breakdowns. |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
-<br/>
-
-| 🎧 DSP Simulator | 🩺 ESP32-CAM Health Monitor |
-|---|---|
-| Python-based Digital Signal Processing simulator demonstrating signal behavior through computational models and algorithm visualization. | Portable embedded health monitoring device using ESP32-CAM — real-time sensor data, camera-assisted sensing, and YOLOv8-powered detection. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black) |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>🖥️ OS Visualizer</h3>
+      <p>Interactive web app simulating core OS algorithms in real time — CPU scheduling, page replacement, and memory management with step-by-step visualization.</p>
+      <div style="margin: 10px 0;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      </div>
+      <a href="https://osvisualizer.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/clarencze/OS-VISUALIZER" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>➗ Numerical Methods Calculator</h3>
+      <p>Solves linear equation systems using Cramer's Rule, Gaussian Elimination, Gauss-Jordan, and LU Decomposition with full step-by-step breakdowns.</p>
+      <div style="margin: 10px 0;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      </div>
+      <a href="https://numerical-method.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/Jviscoding/Numerical-Method" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>🎧 DSP Simulator</h3>
+      <p>Python-based Digital Signal Processing simulator demonstrating signal behavior through computational models and algorithm visualization.</p>
+      <div style="margin: 10px 0;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>🩺 ESP32-CAM Health Monitor</h3>
+      <p>Portable embedded health monitoring device using ESP32-CAM — real-time sensor data, camera-assisted sensing, and YOLOv8-powered detection.</p>
+      <div style="margin: 10px 0;">
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" alt="YOLOv8" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,8 +126,14 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 <div align="center">
 
-> *"Code. Secure. Innovate."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a6fff,50:0d1f6e,100:0a0a0a&height=150&section=footer&reversal=true" />
+
+<br/>
+
+<img src="https://komarev.com/normal-counter.php?username=clarencze&style=flat-square&label=PROFILE+VIEWS&color=1a6fff" alt="Profile Views" />
 
 </div>
