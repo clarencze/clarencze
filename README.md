@@ -1,16 +1,12 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=180&section=header&text=Clarence%20Aquino&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20IoT%20Builder&descAlignY=55&descAlign=50" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=180&section=header&text=Clarence%20Aquino&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=50" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;Backend+%7C+SQL+%7C+Embedded+IoT;Building+systems+that+just+work." alt="Typing SVG" />
 </a>
-
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
+Show Image
+Show Image
+Show Image
 
 </div>
 
