@@ -1,16 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=180&section=header&text=Clarence%20Aquino&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=200&section=header&text=Clarence%20Aquino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=1a6fff&strokeWidth=2" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;Backend+%7C+SQL+%7C+Embedded+IoT;Building+systems+that+just+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;Backend+%7C+SQL+%7C+Embedded+IoT;Building+systems+that+just+work." alt="Typing SVG" />
 </a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-clarencze.github.io%2Fcsa-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
 
 </div>
 
@@ -121,10 +115,24 @@ Portable embedded health monitoring device using ESP32-CAM — real-time sensor 
 
 ---
 
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-clarencze.github.io%2Fcsa-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
+
+*Open to collaborations, internships, and software engineering opportunities!*
+
+</div>
+
+---
+
 <div align="center">
 
 > *"Code. Secure. Innovate."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fff,60:0d1f6e,100:0a0a0a&height=100&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f6e,100:1a6fff&height=120&section=footer&animation=fadeIn&reversal=true" />
 
 </div>
