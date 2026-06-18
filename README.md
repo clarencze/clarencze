@@ -115,9 +115,9 @@ Portable embedded health monitoring device using ESP32-CAM — real-time sensor 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-clarencze.github.io%2Fcsa-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarence_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
-[![Email](https://img.shields.io/badge/Email-aquinoclarence89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://clarencze.github.io/csa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-aquino-3b7141417/)
+[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquinoclarence89@gmail.com)
 
 *Open to collaborations, internships, and software engineering opportunities!*
 
