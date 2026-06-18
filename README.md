@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Clarence%20Aquino&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20IoT%20Builder&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=180&section=header&text=Clarence%20Aquino&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20IoT%20Builder&descAlignY=55&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;Backend+%7C+SQL+%7C+Embedded+IoT;Building+systems+that+just+work." alt="Typing SVG" />
@@ -139,6 +139,6 @@ Portable embedded health monitoring device using ESP32-CAM — real-time sensor 
 
 > *"Code. Secure. Innovate."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fff,60:0d1f6e,100:0a0a0a&height=100&section=footer&animation=twinkling" />
 
 </div>
