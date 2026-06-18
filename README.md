@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=250&section=header&text=Clarence%20Aquino&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=1a6fff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=250&section=header&text=Clarence%20Aquino&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=50&stroke=1a6fff&strokeWidth=2" />
 
 </div>
 
@@ -129,6 +129,6 @@ Portable embedded health monitoring device using ESP32-CAM — real-time sensor 
 
 > *"Code. Secure. Innovate."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a6fff,50:0d1f6e,100:0a0a0a&height=150&section=footer&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a6fff,50:0d1f6e,100:0a0a0a&height=150&section=footer&reversal=true&animation=twinkling" />
 
 </div>
