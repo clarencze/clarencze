@@ -132,9 +132,6 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 </a>
 
 </div>
-
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fff,60:0d1f6e,100:0a0a0a&height=150&section=footer&reversal=false&animation=twinkling" />
-
 </div>
