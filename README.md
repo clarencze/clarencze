@@ -126,7 +126,7 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+<img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight" alt="Random Quote" />
 
 <br/><br/>
 
@@ -134,6 +134,6 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 <br/>
 
-<img src="https://komarev.com/normal-counter.php?username=clarencze&style=flat-square&label=PROFILE+VIEWS&color=1a6fff" alt="Profile Views" />
+<img src="https://komarev.com/normal-counter.php?username=clarencze&style=flat&label=PROFILE+VIEWS&color=1a6fff" alt="Profile Views" />
 
 </div>
