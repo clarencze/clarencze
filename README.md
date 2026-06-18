@@ -60,8 +60,10 @@ I'm a Computer Engineering student passionate about building efficient, scalable
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
       </div>
-      <a href="https://osvisualizer.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      <a href="https://github.com/clarencze/OS-VISUALIZER" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <div style="margin-top: 15px;">
+        <a href="https://osvisualizer.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/clarencze/OS-VISUALIZER" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      </div>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
       <h3>➗ Numerical Methods Calculator</h3>
@@ -71,8 +73,10 @@ I'm a Computer Engineering student passionate about building efficient, scalable
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
       </div>
-      <a href="https://numerical-method.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      <a href="https://github.com/Jviscoding/Numerical-Method" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <div style="margin-top: 15px;">
+        <a href="https://numerical-method.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/Jviscoding/Numerical-Method" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      </div>
     </td>
   </tr>
   <tr>
