@@ -138,4 +138,3 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 </div>
 
-</div>
