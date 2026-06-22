@@ -10,7 +10,7 @@
 
 I'm a Computer Engineering student passionate about building efficient, scalable systems — from backend APIs and SQL databases to embedded IoT hardware. I enjoy bridging software and hardware to solve real-world problems.
 
-- 🌱 Currently deepening my skills in **Python**, **Django**, and **JavaScript**
+- 🌱 Currently deepening my skills in **Python**, **Django**, **REST**, and **JavaScript**
 - 🔭 Building projects that combine software logic with hardware integration
 - 🎯 Goal: Land a role as a Software Engineer
 - ⚡ Fun fact: I enjoy building systems that talk to the physical world
