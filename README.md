@@ -57,8 +57,6 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 
 ---
 
---
-
 ## 📌 Featured Projects
 
 <table width="100%">
