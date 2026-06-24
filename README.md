@@ -20,6 +20,7 @@ I'm a Computer Engineering student passionate about building efficient, scalable
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" />
@@ -27,36 +28,21 @@ I'm a Computer Engineering student passionate about building efficient, scalable
   <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" />
 </p>
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&vCenter=true&width=450&height=25&lines=Python;Java;C%2B%2B;PHP" alt="Languages Animation" />
+</p>
+
 ### 🌐 Web
+
 <p>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" />
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" />
 </p>
 
-### 🗄️ Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="48" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&vCenter=true&width=450&height=25&lines=HTML5;CSS3;JavaScript;Responsive+Web+Design" alt="Web Animation" />
 </p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" width="48" />
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" title="XAMPP" alt="XAMPP" width="48" height="48" />
-</p>
-
-### 🔌 Embedded & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" alt="Arduino" width="48" />
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="48" height="48" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 <table width="100%">
