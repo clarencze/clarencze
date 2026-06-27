@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Engineering student passionate about building efficient, scalable systems — from backend APIs and SQL databases to embedded IoT hardware. I enjoy bridging software and hardware to solve real-world problems.
+Computer Engineering student focused on software engineering and cybersecurity, driven by a passion for building scalable applications and secure digital systems. My interests include backend architecture, database management, API development, and security-oriented system design.
 
 - 🌱 Currently deepening my skills in **Python**, **Django**, **React**, and **JavaScript**
 - 🔭 Building projects that combine software logic with hardware integration
