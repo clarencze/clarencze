@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Computer Engineering student focused on software engineering and cybersecurity, driven by a passion for building scalable applications and secure digital systems. My interests include backend architecture, database management, API development, and security-oriented system design.
+  Computer Engineering student focused on software engineering and cybersecurity, driven by a passion for building scalable applications and secure digital systems. My interests include backend architecture, database management, API development, and security-oriented system design.
 
 - 🌱 Currently deepening my skills in **Python**, **Django**, **React**, and **JavaScript**
 - 🔭 Building projects that combine software logic with hardware integration
