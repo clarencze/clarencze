@@ -17,25 +17,27 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 <h3>🧠 Languages</h3>
 <table>
 <tr>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br><b>Python</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br><b>Java</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b>
 </td>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br><b>JavaScript</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP
+<img src="https://skillicons.dev/icons?i=php" width="50"/><br><b>PHP</b>
 </td>
 </tr>
 </table>
@@ -44,13 +46,13 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50"/><br>HTML
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50"/><br><b>HTML</b>
 </td>
 <td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50"/><br>CSS
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50"/><br><b>CSS</b>
 </td>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br><b>React</b>
 </td>
 </tr>
 </table>
@@ -59,13 +61,13 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><b>MySQL</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>SQLite
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><b>SQLite</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><b>Firebase</b>
 </td>
 </tr>
 </table>
@@ -74,16 +76,16 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><b>GitHub</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VSCode</b>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br>XAMPP
+<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br><b>XAMPP</b>
 </td>
 </tr>
 </table>
@@ -92,13 +94,16 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=arduino" width="50"/><br>Arduino
+<img src="https://skillicons.dev/icons?i=arduino" width="50"/><br><b>Arduino</b>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/><br>ESP32
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/><br><b>ESP32</b>
 </td>
 </tr>
 </table>
+
+</div>
+
 ---
 
 ## 📌 Featured Projects
