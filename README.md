@@ -79,7 +79,7 @@
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br><b>GitHub</b>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br><b>GitHub</b>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VSCode</b>
