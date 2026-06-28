@@ -82,7 +82,7 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br><b>GitHub</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VSCode</b>
+<img src="[https://skillicons.dev/icons?i=vscode](https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF)" width="50"/><br><b>VSCode</b>
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br><b>XAMPP</b>
