@@ -59,6 +59,9 @@
   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" alt="Arduino" width="48" />
   <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="48" height="48" />
 </p>
+
+---
+
 ## 📌 Featured Projects
 
 <table width="100%">
