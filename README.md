@@ -28,10 +28,10 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br><b>Python</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br><b>Java</b>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br><b>Java</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br><b>C++</b>
 </td>
 <td align="center">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br><b>JavaScript</b>
@@ -46,10 +46,10 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50"/><br><b>HTML</b>
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML</b>
 </td>
 <td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50"/><br><b>CSS</b>
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><b>CSS</b>
 </td>
 <td align="center">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br><b>React</b>
@@ -61,7 +61,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><b>MySQL</b>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br><b>MySQL</b>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><b>SQLite</b>
