@@ -19,47 +19,86 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=500&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+PHP;HTML+%7C+CSS+%7C+React;MySQL+%7C+SQLite+%7C+Firebase;Git+%7C+GitHub+%7C+VS+Code;Arduino+%7C+ESP32" />
-</p>
+<h3>🧠 Languages</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP
+</td>
+</tr>
+</table>
 
-### 🧠 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="48" />
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" />
-</p>
+<h3>🌐 Web</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50"/><br>HTML
+</td>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50"/><br>CSS
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React
+</td>
+</tr>
+</table>
 
-### 🌐 Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" />
-</p>
+<h3>🗄️ Databases & Backend</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>SQLite
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase
+</td>
+</tr>
+</table>
 
-### 🗄️ Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="48" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48" />
-</p>
+<h3>⚙️ Tools</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br>XAMPP
+</td>
+</tr>
+</table>
 
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" width="48" />
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" title="XAMPP" alt="XAMPP" width="48" height="48" />
-</p>
-
-### 🔌 Embedded & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" alt="Arduino" width="48" />
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="48" height="48" />
-</p>
-
+<h3>🔌 Embedded & Hardware</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=arduino" width="50"/><br>Arduino
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/><br>ESP32
+</td>
+</tr>
+</table>
 ---
 
 ## 📌 Featured Projects
