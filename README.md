@@ -82,7 +82,7 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br><b>GitHub</b>
 </td>
 <td align="center">
-<img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF" width="50"/><br><b>VSCode</b>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA4ZzhjazVmZjAxd2V1MXdpbm5iY3Z1dDVobGdzZTlkY2J6ZHQ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50"/><br><b>VSCode</b>
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br><b>XAMPP</b>
