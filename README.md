@@ -19,6 +19,10 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=500&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+PHP;HTML+%7C+CSS+%7C+React;MySQL+%7C+SQLite+%7C+Firebase;Git+%7C+GitHub+%7C+VS+Code;Arduino+%7C+ESP32" />
+</p>
+
 ### 🧠 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" />
@@ -32,6 +36,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" />
 </p>
 
 ### 🗄️ Databases & Backend
@@ -54,9 +59,6 @@
   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" alt="Arduino" width="48" />
   <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="48" height="48" />
 </p>
-
----
-
 ## 📌 Featured Projects
 
 <table width="100%">
