@@ -13,7 +13,6 @@
 - 🌱 Currently deepening my skills in **Python**, **Django**, **React**, and **JavaScript**
 - 🔭 Building projects that combine software logic with hardware integration
 - 🎯 Goal: Land a role as a Software Engineer
-- ⚡ Fun fact: I enjoy building systems that talk to the physical world
 
 ---
 
