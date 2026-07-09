@@ -159,33 +159,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarencze&theme=tokyonight" />
+<img width="60%" src="https://streak-stats.demolab.com?user=clarencze&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarencze&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarencze&theme=tokyonight" />
-
-  <br/><br/>
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarencze&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clarencze&theme=tokyonight&utcOffset=8" />
-
-  <br/><br/>
-
-  <img width="60%" src="https://streak-stats.demolab.com?user=clarencze&theme=tokyonight&hide_border=true&border_radius=8" />
-
-  <br/><br/>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarencze&theme=tokyo-night&hide_border=true&radius=8" />
-
-  <br/><br/>
-
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=clarencze&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarencze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
