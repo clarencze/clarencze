@@ -164,7 +164,7 @@
 <div align="center">
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarencze&theme=github_dark" alt="GitHub Commit Stats" />
-<img width="64%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarencze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&height=260" alt="GitHub Activity Graph" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarencze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&height=260" alt="GitHub Activity Graph" />
 
 <br/><br/>
 
