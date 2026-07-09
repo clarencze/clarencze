@@ -163,10 +163,11 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&border_radius=8" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&border_radius=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=clarencze&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=clarencze&theme=tokyonight&hide_border=true&border_radius=8" />
 
 </div>
 
