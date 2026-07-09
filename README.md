@@ -111,7 +111,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 15px;">
       <h3>🖥️ OS Visualizer</h3>
-      <p>Interactive web app simulating core OS algorithms in real time — CPU scheduling, page replacement, and memory management with step-by-step visualization.</p>
+      <p>Interactive web app simulating core OS algorithms in real time — CPU scheduling, page replacement, and memory management.</p>
       <div style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
