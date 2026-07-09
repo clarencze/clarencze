@@ -159,15 +159,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 GitHub Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarencze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarencze&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarencze&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=clarencze&theme=tokyonight&hide_border=true&border_radius=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarencze&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarencze&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarencze&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clarencze&theme=tokyonight&utcOffset=8" />
 
 </div>
 
