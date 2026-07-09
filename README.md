@@ -159,19 +159,12 @@
 
 ---
 
-## 🔥 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=clarencze&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarencze&theme=github_dark" alt="GitHub Commit Stats" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarencze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarencze&theme=github_dark" alt="GitHub Commit Stats" />
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarencze&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&height=220" alt="GitHub Activity Graph" />
 
 </div>
 
