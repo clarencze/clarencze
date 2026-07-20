@@ -31,8 +31,11 @@
 <td align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br><b>Java</b>
 </td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br><b>C++</b>
+<td align="center" valign="bottom">
+<div style="height: 50px; display: flex; align-items: center; justify-content: center;">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/>
+</div>
+<b>C++</b>
 </td>
 <td align="center">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br><b>JavaScript</b>
