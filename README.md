@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:0d1f6e,100:1a6fff&height=250&section=header&text=Clarence%20Aquino&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=1a6fff&strokeWidth=2" />
 
@@ -20,6 +20,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 <h3>🧠 Languages</h3>
 <table>
 <tr>
@@ -37,6 +39,9 @@
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=php" width="50"/><br><b>PHP</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=godot" width="50"/><br><b>GDScript</b>
 </td>
 </tr>
 </table>
@@ -118,6 +123,15 @@
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/><br><b>ESP32</b>
+</td>
+</tr>
+</table>
+
+<h3>🎮 Game Development</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=godot" width="50"/><br><b>Godot</b>
 </td>
 </tr>
 </table>
